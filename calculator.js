@@ -1,14 +1,20 @@
 function sum(a, b) {
   return a + b;
+  console.log("0")
 }
+
+
 
 function subtract(a, b) {
   return a - b;
 }
 
+
+
 function divide(a, b) {
   return a / b;
 }
+
 
 function multiply(a, b) {
   return a * b;
